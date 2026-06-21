@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vinceliuice"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "Layan-discus theme for plasma",
+        "EnabledByDefault": true,
+        "Id": "Layan-discus-light",
+        "License": "GPL 3.0",
+        "Name": "Layan-discus-light",
+        "Version": "0.1",
+        "Website": "https://github.com/vinceliuice/Layan-discus-kde"
+    }
+}

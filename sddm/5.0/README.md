@@ -1,5 +1,5 @@
 
-Layan sddm theme for KDE Plasma desktop.
+Layan-discus sddm theme for KDE Plasma desktop.
 
 ## Installation
 
