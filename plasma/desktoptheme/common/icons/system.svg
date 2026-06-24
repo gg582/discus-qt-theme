@@ -48,7 +48,7 @@
          offset="0"
          id="stop2" />
       <stop
-         stop-color="#ec5cff"
+         stop-color="#4A7C8C"
          offset="1"
          id="stop4" />
     </linearGradient>
@@ -79,7 +79,7 @@
          offset="0"
          id="stop15" />
       <stop
-         stop-color="#544df3"
+         stop-color="#4A7C8C"
          offset="1"
          id="stop17" />
     </linearGradient>
@@ -107,11 +107,11 @@
        y2="16"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#864bed"
+         stop-color="#4A7C8C"
          offset="0"
          id="stop25" />
       <stop
-         stop-color="#f64cc4"
+         stop-color="#4A7C8C"
          offset="1"
          id="stop27" />
     </linearGradient>
@@ -365,7 +365,7 @@
       <path
          d="m16 3c-7.1724 0-13 5.8276-13 13s5.8276 13 13 13 13-5.8276 13-13-5.8276-13-13-13z"
          color="#000000"
-         fill="#b891ff"
+         fill="#4A7C8C"
          opacity=".25"
          overflow="visible"
          stroke-width=".92857"
@@ -493,7 +493,7 @@
          cx="16"
          cy="1106.5"
          r="13"
-         fill="#9575cd"
+         fill="#4A7C8C"
          opacity=".25"
          stroke-width=".92857"
          id="circle105" />
@@ -622,7 +622,7 @@
        cx="-11"
        cy="85"
        r="8"
-       fill="#b990ff"
+       fill="#4A7C8C"
        opacity=".25"
        stroke-linecap="round"
        stroke-linejoin="round"
@@ -723,7 +723,7 @@
        cx="-99"
        cy="85"
        r="8"
-       fill="#bc4bd9"
+       fill="#4A7C8C"
        opacity=".25"
        stroke-linecap="round"
        stroke-linejoin="round"
@@ -764,7 +764,7 @@
        cx="-50"
        cy="53"
        r="11"
-       fill="#bc4bd9"
+       fill="#4A7C8C"
        opacity=".25"
        stroke-linecap="round"
        stroke-linejoin="round"
@@ -866,7 +866,7 @@
        cx="38"
        cy="53"
        r="11"
-       fill="#b990ff"
+       fill="#4A7C8C"
        opacity=".25"
        stroke-linecap="round"
        stroke-linejoin="round"

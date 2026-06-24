@@ -1,10 +1,10 @@
 <svg width="200" height="200" version="1.0" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <radialGradient id="radialGradient4671" cx="1255.9" cy="382.73" r="96.606" gradientTransform="matrix(1.0765,0,0,1.0765,-1252,-310.02)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#232629" offset="0"/>
-   <stop stop-color="#232629" stop-opacity=".52349" offset=".9"/>
-   <stop stop-color="#232629" stop-opacity=".10738" offset=".96"/>
-   <stop stop-color="#232629" stop-opacity="0" offset="1"/>
+   <stop stop-color="#111116" offset="0"/>
+   <stop stop-color="#111116" stop-opacity=".52349" offset=".9"/>
+   <stop stop-color="#111116" stop-opacity=".10738" offset=".96"/>
+   <stop stop-color="#111116" stop-opacity="0" offset="1"/>
   </radialGradient>
  </defs>
  <g id="ClockFace">
@@ -12,10 +12,10 @@
   <circle cx="100" cy="101" r="98" fill="#000000" opacity=".15"/>
   <circle cx="100" cy="100" r="98" fill="#31313f" opacity=".95"/>
   <g opacity=".75" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3068">
-   <circle cx="100" cy="14" r="4" fill="#5657f5" opacity="1" style="paint-order:fill markers stroke"/>
-   <circle cx="100" cy="186" r="4" fill="#5657f5" opacity="1" style="paint-order:fill markers stroke"/>
-   <circle transform="rotate(90)" cx="100" cy="-186" r="4" fill="#5657f5" opacity="1" style="paint-order:fill markers stroke"/>
-   <circle transform="rotate(90)" cx="100" cy="-14" r="4" fill="#5657f5" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle cx="100" cy="14" r="4" fill="#4A7C8C" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle cx="100" cy="186" r="4" fill="#4A7C8C" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(90)" cx="100" cy="-186" r="4" fill="#4A7C8C" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(90)" cx="100" cy="-14" r="4" fill="#4A7C8C" opacity="1" style="paint-order:fill markers stroke"/>
    <circle transform="rotate(30)" cx="136.6" cy="-49.397" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
    <circle transform="rotate(30)" cx="136.6" cy="122.6" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
    <circle transform="rotate(60)" cx="136.6" cy="-122.6" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
@@ -92,7 +92,7 @@
  </g>
  <g id="SecondHand" transform="rotate(90,192,25)">
   <rect x="247" y="64" width="81" height="8" rx="0" ry="0" fill="none" style="paint-order:fill markers stroke"/>
-  <g transform="translate(161,-9)" fill="#5657f5">
+  <g transform="translate(161,-9)" fill="#4A7C8C">
    <rect x="86" y="76.5" width="76" height="1" rx=".5" ry=".5" style="paint-order:fill markers stroke"/>
    <circle cx="90" cy="77" r="2" style="paint-order:fill markers stroke"/>
   </g>

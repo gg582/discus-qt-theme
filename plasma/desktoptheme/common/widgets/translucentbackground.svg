@@ -53,7 +53,7 @@
         color:#31363b;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
+        color:#111116;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -62,7 +62,7 @@
         color:#31363b;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
+        color:#111116;
       }
       .ColorScheme-ViewHover {
         color:#93cee9;
@@ -74,7 +74,7 @@
         color:#31363b;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
+        color:#111116;
       }
       .ColorScheme-ButtonHover {
         color:#93cee9;
@@ -312,21 +312,21 @@
        style="opacity:0.9" />
   </g>
   <rect
-     style="fill:#ff00ff"
+     style="fill:#4A7C8C"
      id="hint-top-margin"
      x="33"
      y="-1.4648437e-05"
      width="4"
      height="12" />
   <rect
-     style="fill:#ff00ff"
+     style="fill:#4A7C8C"
      id="hint-bottom-margin"
      x="33"
      y="43.999985"
      width="4"
      height="12" />
   <rect
-     style="fill:#ff00ff"
+     style="fill:#4A7C8C"
      id="hint-right-margin"
      transform="rotate(90)"
      x="25.999985"
@@ -334,7 +334,7 @@
      width="4"
      height="12" />
   <rect
-     style="fill:#ff00ff"
+     style="fill:#4A7C8C"
      id="hint-left-margin"
      transform="rotate(90)"
      x="25.999985"
@@ -472,21 +472,21 @@
        x="19" />
   </g>
   <rect
-     style="fill:#ff00ff"
+     style="fill:#4A7C8C"
      id="shadow-hint-top-margin"
      x="91"
      y="-1.4648437e-05"
      width="4"
      height="12" />
   <rect
-     style="fill:#ff00ff"
+     style="fill:#4A7C8C"
      id="shadow-hint-bottom-margin"
      x="91"
      y="43.999985"
      width="4"
      height="12" />
   <rect
-     style="fill:#ff00ff"
+     style="fill:#4A7C8C"
      id="shadow-hint-right-margin"
      transform="rotate(90)"
      x="25.999985"
@@ -494,7 +494,7 @@
      width="4"
      height="12" />
   <rect
-     style="fill:#ff00ff"
+     style="fill:#4A7C8C"
      id="shadow-hint-left-margin"
      transform="rotate(90)"
      x="25.999985"

@@ -1,8 +1,8 @@
 <svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a">
-   <stop stop-color="#d935f9" offset="0"/>
-   <stop stop-color="#ff3c7d" offset="1"/>
+   <stop stop-color="#4A7C8C" offset="0"/>
+   <stop stop-color="#4A7C8C" offset="1"/>
   </linearGradient>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#363636; }</style>
   <linearGradient id="d" x1="2.4915" x2="29.373" y1="2.3051" y2="27.797" gradientUnits="userSpaceOnUse" xlink:href="#a"/>

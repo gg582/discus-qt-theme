@@ -81,9 +81,9 @@ SessionManagementScreen {
             passwordCharacter: config.PasswordFieldCharacter == "" ? "●" : config.PasswordFieldCharacter
             background: Rectangle {
                 radius: 100
-                border.color: "#5657f5"
+                border.color: "#4A7C8C"
                 border.width: 1
-                color: "#5657f5"
+                color: "#4A7C8C"
             }
         }
 

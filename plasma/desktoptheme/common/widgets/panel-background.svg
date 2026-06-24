@@ -51,8 +51,8 @@
         stop-color:#31363b;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#111116;
+        stop-color:#111116;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -63,8 +63,8 @@
         stop-color:#31363b;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
+        color:#111116;
+        stop-color:#111116;
       }
       .ColorScheme-ViewHover {
         color:#93cee9;
@@ -79,8 +79,8 @@
         stop-color:#31363b;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#111116;
+        stop-color:#111116;
       }
       .ColorScheme-ButtonHover {
         color:#93cee9;
@@ -411,7 +411,7 @@
      y="-54"
      width="4"
      height="6"
-     fill="#ff00ff"
+     fill="#4A7C8C"
      stroke-width="1.4142" />
   <rect
      id="shadow-hint-left-margin"
@@ -443,7 +443,7 @@
      y="-82"
      width="4"
      height="6"
-     fill="#ff00ff"
+     fill="#4A7C8C"
      stroke-width="1.4142" />
   <rect
      id="shadow-hint-right-margin"
@@ -474,7 +474,7 @@
      y="39"
      width="4"
      height="6"
-     fill="#ff00ff"
+     fill="#4A7C8C"
      stroke-width="1.4142" />
   <rect
      id="shadow-hint-bottom-margin"
@@ -503,7 +503,7 @@
      y="10.999999"
      width="4"
      height="6"
-     fill="#ff00ff"
+     fill="#4A7C8C"
      stroke-width="1.4142" />
   <rect
      id="shadow-hint-top-margin"

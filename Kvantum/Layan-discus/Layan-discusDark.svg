@@ -2632,7 +2632,7 @@
   </g>
   <g
      id="g507"
-     fill="#31313a">
+     fill="#111116">
     <rect
        id="menubar-normal"
        x="289.05"
@@ -2689,7 +2689,7 @@
        y="617"
        width="5"
        height="1"
-       fill="#31313a"
+       fill="#111116"
        opacity=".01" />
   </g>
   <g
@@ -2701,7 +2701,7 @@
        y="617"
        width="5"
        height="1"
-       fill="#31313a"
+       fill="#111116"
        opacity=".01" />
   </g>
   <g
@@ -2713,7 +2713,7 @@
        y="617"
        width="20"
        height="1"
-       fill="#31313a"
+       fill="#111116"
        opacity=".01" />
   </g>
   <rect
@@ -3121,7 +3121,7 @@
      y="949.44"
      width="30"
      height="30"
-     fill="#25252d" />
+     fill="#111116" />
   <g
      id="g643"
      fill="#19191f">
@@ -3353,14 +3353,14 @@
   <path
      id="tabframe-normal"
      d="m279.68 666.77v32h32v-32z"
-     fill="#31313a" />
+     fill="#111116" />
   <g
      id="tabframe-normal-left"
      transform="matrix(.8 0 0 .98462 258.68 618.77)">
     <path
        id="path213"
        d="m26.25 81.251v-32.5h-5v32.5z"
-       fill="#31313a" />
+       fill="#111116" />
     <path
        id="path215"
        d="m21.25 48.752v32.5h2.4998v-32.5z"
@@ -3372,7 +3372,7 @@
     <path
        id="path218"
        d="m26.25 41.252h-5v5h5z"
-       fill="#31313a" />
+       fill="#111116" />
     <path
        id="path220"
        d="m26.25 41.252h-5v5h2.4999l-3e-4 -2.5h2.5001z"
@@ -3474,7 +3474,7 @@
      y="949.44"
      width="30"
      height="30"
-     fill="#25252d" />
+     fill="#111116" />
   <g
      id="mdi-close-normal"
      transform="translate(-37 -82.03)">
@@ -5136,7 +5136,7 @@
   <path
      id="titlebar-normal"
      d="m395.84 407.05v32h32v-32z"
-     fill="#31313a" />
+     fill="#111116" />
   <use
      id="titlebar-focused"
      transform="translate(4.3816e-8 -45)"
@@ -5149,17 +5149,17 @@
      y="109.94"
      width="10"
      height="10"
-     fill="#31313a" />
+     fill="#111116" />
   <rect
      id="combo-normal"
      x="417.2"
      y="96.443"
      width="10"
      height="10"
-     fill="#31313a" />
+     fill="#111116" />
   <g
      id="g1018"
-     fill="#25252d">
+     fill="#111116">
     <path
        id="header-normal-bottom"
        d="m78 116.88h-6v6h6z" />
@@ -5180,7 +5180,7 @@
      opacity=".001" />
   <g
      id="g1025"
-     fill="#25252d">
+     fill="#111116">
     <path
        id="header-normal-top"
        d="m78 110.88h-6v6h6z" />
@@ -5208,7 +5208,7 @@
   <path
      id="header-separator"
      d="m72 104.88h-6v6h6z"
-     fill="#25252d" />
+     fill="#111116" />
   <g
      style="stroke-width:1.02489996"
      transform="matrix(0.95208,0,0,1,11.535,-19.236)"
@@ -5271,12 +5271,12 @@
      style="opacity:0.18999999;fill:#ffffff" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#31313a;fill-rule:evenodd;paint-order:normal"
+     style="opacity:0.8;fill:#111116;fill-rule:evenodd;paint-order:normal"
      d="m 370.79,887.72 h 30 v 30 h -30 z"
      id="window-normal" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#31313a;fill-rule:evenodd;paint-order:normal"
+     style="opacity:0.8;fill:#111116;fill-rule:evenodd;paint-order:normal"
      d="m 402.79,887.72 h 30 v 30 h -30 z"
      id="window-normal-inactive" />
   <path

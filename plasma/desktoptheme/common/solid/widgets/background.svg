@@ -43,8 +43,8 @@
         stop-color:#31363b;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#111116;
+        stop-color:#111116;
       }
       .ColorScheme-Highlight {
         color:#3281ea;
@@ -55,8 +55,8 @@
         stop-color:#31363b;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
+        color:#111116;
+        stop-color:#111116;
       }
       .ColorScheme-ViewHover {
         color:#93cee9;
@@ -71,8 +71,8 @@
         stop-color:#31363b;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#111116;
+        stop-color:#111116;
       }
       .ColorScheme-ButtonHover {
         color:#93cee9;
@@ -349,7 +349,7 @@
        fill="currentColor" />
   </g>
   <g
-     fill="#ff00ff"
+     fill="#4A7C8C"
      stroke-width="1.4142"
      id="g52"
      transform="translate(0,21.999985)">
@@ -456,7 +456,7 @@
        y="-51"
        width="6"
        height="32"
-       color="#eff0f1"
+       color="#111116"
        fill="#1a1a1a"
        opacity="0"
        id="rect62" />
@@ -490,7 +490,7 @@
     <path
        transform="translate(0,904.36)"
        d="m 19,6 c -3.324,0 -6,2.676 -6,6 h 6 V 7 Z"
-       color="#eff0f1"
+       color="#111116"
        fill="#1a1a1a"
        opacity="0"
        id="path71" />
@@ -550,7 +550,7 @@
      y="-211"
      width="4"
      height="24"
-     style="fill:#ff00ff;stroke-width:1.4142" />
+     style="fill:#4A7C8C;stroke-width:1.4142" />
   <rect
      id="shadow-hint-left-margin"
      transform="rotate(90)"
@@ -558,21 +558,21 @@
      y="-155"
      width="4"
      height="24"
-     style="fill:#ff00ff;stroke-width:1.4142" />
+     style="fill:#4A7C8C;stroke-width:1.4142" />
   <rect
      id="shadow-hint-top-margin"
      x="169"
      y="9.9999857"
      width="4"
      height="24"
-     style="fill:#ff00ff;stroke-width:1.4142" />
+     style="fill:#4A7C8C;stroke-width:1.4142" />
   <rect
      id="shadow-hint-bottom-margin"
      x="169"
      y="65.999985"
      width="4"
      height="24"
-     style="fill:#ff00ff;stroke-width:1.4142" />
+     style="fill:#4A7C8C;stroke-width:1.4142" />
   <rect
      style="opacity:0.8;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.999997"
      id="hint-right-inset"
@@ -741,14 +741,14 @@
      y="116.99999"
      width="3.9999998"
      height="24"
-     style="opacity:0.8;fill:#ff00ff;stroke-width:1.4142" />
+     style="opacity:0.8;fill:#4A7C8C;stroke-width:1.4142" />
   <rect
      id="blurred-hint-bottom-margin"
      x="45.999992"
      y="172.99998"
      width="3.9999998"
      height="24"
-     style="opacity:0.8;fill:#ff00ff;stroke-width:1.4142" />
+     style="opacity:0.8;fill:#4A7C8C;stroke-width:1.4142" />
   <rect
      id="blurred-hint-right-margin"
      transform="rotate(90)"
@@ -756,7 +756,7 @@
      y="-88.000008"
      width="3.9999998"
      height="24"
-     style="opacity:0.8;fill:#ff00ff;stroke-width:1.4142" />
+     style="opacity:0.8;fill:#4A7C8C;stroke-width:1.4142" />
   <rect
      id="blurred-hint-left-margin"
      transform="rotate(90)"
@@ -764,7 +764,7 @@
      y="-32.000008"
      width="3.9999998"
      height="24"
-     style="opacity:0.8;fill:#ff00ff;stroke-width:1.4142" />
+     style="opacity:0.8;fill:#4A7C8C;stroke-width:1.4142" />
   <use
      id="blurred-topright"
      transform="matrix(-1,0,0,1,96.000018,1.3515625e-6)"

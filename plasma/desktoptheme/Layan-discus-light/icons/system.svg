@@ -141,11 +141,11 @@
        y2="16"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#864bed"
+         stop-color="#4A7C8C"
          offset="0"
          id="stop35" />
       <stop
-         stop-color="#f64cc4"
+         stop-color="#4A7C8C"
          offset="1"
          id="stop37" />
     </linearGradient>
@@ -388,7 +388,7 @@
        id="g60">
       <path
          d="m16 3c-7.1724 0-13 5.8276-13 13s5.8276 13 13 13 13-5.8276 13-13-5.8276-13-13-13z"
-         fill="#b891ff"
+         fill="#4A7C8C"
          opacity=".25"
          id="path54" />
       <path
@@ -501,7 +501,7 @@
          cx="16"
          cy="1106.5"
          r="13"
-         fill="#9575cd"
+         fill="#4A7C8C"
          opacity=".25"
          id="circle87" />
       <path

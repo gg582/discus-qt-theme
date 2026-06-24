@@ -55,7 +55,7 @@
         color:#31363b;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
+        color:#111116;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -64,7 +64,7 @@
         color:#31363b;
       }
       .ColorScheme-ViewBackground {
-        color:#fcfcfc;
+        color:#111116;
       }
       .ColorScheme-ViewHover {
         color:#93cee9;
@@ -76,7 +76,7 @@
         color:#31363b;
       }
       .ColorScheme-ButtonBackground {
-        color:#eff0f1;
+        color:#111116;
       }
       .ColorScheme-ButtonHover {
         color:#93cee9;
@@ -267,7 +267,7 @@
      y="51"
      width="2"
      height="0.1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width="0.31623" />
   <rect
      id="hover-hint-right-margin"
@@ -276,7 +276,7 @@
      y="73.899994"
      width="2"
      height="0.1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width="0.22361" />
   <rect
      id="hover-hint-left-margin"
@@ -285,7 +285,7 @@
      y="13.999998"
      width="2"
      height="0.1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width="0.22361" />
   <rect
      id="hover-hint-bottom-margin"
@@ -293,7 +293,7 @@
      y="86.900002"
      width="2"
      height="0.1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width="0.18257" />
   <path
      id="normal-center"
@@ -672,7 +672,7 @@
      y="96"
      width="2"
      height="0.2"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      style="stroke-width:0.447214" />
   <rect
      id="focus-hint-right-margin"
@@ -681,7 +681,7 @@
      y="73.800003"
      width="2"
      height="0.2"
-     fill="#9a06ff" />
+     fill="#4A7C8C" />
   <rect
      id="focus-hint-left-margin"
      transform="rotate(-90)"
@@ -689,7 +689,7 @@
      y="13.999998"
      width="2"
      height="0.2"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      style="stroke-width:0.447214" />
   <rect
      id="focus-hint-bottom-margin"
@@ -697,7 +697,7 @@
      y="131.8"
      width="2"
      height="0.2"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      style="stroke-width:0.447214" />
   <g
      id="toolbutton-hover-right"
@@ -1070,17 +1070,17 @@
   <path
      id="pressed-hint-top-margin"
      d="m 44,141 h 2 v 6 h -2 z"
-     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+     style="fill:#4A7C8C;fill-rule:evenodd;stroke-width:0.999996" />
   <path
      id="pressed-hint-bottom-margin"
      d="m 44,173 h 2 v 6 h -2 z"
-     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+     style="fill:#4A7C8C;fill-rule:evenodd;stroke-width:0.999996" />
   <path
      id="pressed-hint-left-margin"
      d="m 14,159 h 6 v 2 h -6 z"
-     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+     style="fill:#4A7C8C;fill-rule:evenodd;stroke-width:0.999996" />
   <path
      id="pressed-hint-right-margin"
      d="m 68,159 h 6 v 2 h -6 z"
-     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+     style="fill:#4A7C8C;fill-rule:evenodd;stroke-width:0.999996" />
 </svg>

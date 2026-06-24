@@ -180,7 +180,7 @@
      y="66"
      width="2"
      height=".1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width=".31623" />
   <rect
      id="hover-hint-right-margin"
@@ -189,7 +189,7 @@
      y="163.9"
      width="2"
      height=".1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width=".22361" />
   <rect
      id="hover-hint-left-margin"
@@ -198,7 +198,7 @@
      y="104"
      width="2"
      height=".1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width=".22361" />
   <rect
      id="hover-hint-bottom-margin"
@@ -206,7 +206,7 @@
      y="101.9"
      width="2"
      height=".1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width=".18257" />
   <path
      id="normal-center"
@@ -604,7 +604,7 @@
      y="111"
      width="2"
      height=".1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width=".31623" />
   <rect
      id="focus-hint-right-margin"
@@ -613,7 +613,7 @@
      y="163.9"
      width="2"
      height=".1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width=".22361" />
   <rect
      id="focus-hint-left-margin"
@@ -622,7 +622,7 @@
      y="104"
      width="2"
      height=".1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width=".22361" />
   <rect
      id="focus-hint-bottom-margin"
@@ -630,7 +630,7 @@
      y="146.9"
      width="2"
      height=".1"
-     fill="#9a06ff"
+     fill="#4A7C8C"
      stroke-width=".18257" />
   <g
      id="toolbutton-hover-right"
@@ -1003,17 +1003,17 @@
   <path
      id="pressed-hint-top-margin"
      d="m 134,156 h 2 v 6 h -2 z"
-     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+     style="fill:#4A7C8C;fill-rule:evenodd;stroke-width:0.999996" />
   <path
      id="pressed-hint-bottom-margin"
      d="m 134,188 h 2 v 6 h -2 z"
-     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+     style="fill:#4A7C8C;fill-rule:evenodd;stroke-width:0.999996" />
   <path
      id="pressed-hint-left-margin"
      d="m 104,174 h 6 v 2 h -6 z"
-     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+     style="fill:#4A7C8C;fill-rule:evenodd;stroke-width:0.999996" />
   <path
      id="pressed-hint-right-margin"
      d="m 158,174 h 6 v 2 h -6 z"
-     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+     style="fill:#4A7C8C;fill-rule:evenodd;stroke-width:0.999996" />
 </svg>
