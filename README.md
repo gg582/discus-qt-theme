@@ -41,4 +41,4 @@ GNU GPL v3
 
 ## preview
 
-![1](../master/plasma/look-and-feel/com.github.vinceliuice.Layan-discus/contents/previews/fullscreenpreview.jpg)
+![1](<스크린샷 2026-06-26 17-43-03.png>)
